@@ -1,0 +1,78 @@
+{
+  "name": "Boxcars - Find Your Perfect Vehicle Online",
+  "short_name": "Boxcars",
+  "description": "The world's largest used car dealership with transparent pricing, trusted service, and special financing offers. Find your perfect vehicle online today.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff",
+  "categories": ["shopping", "automotive"],
+  "screenshots": [
+    {
+      "src": "assets/images/hero-car.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "assets/images/sedan.jpg",
+      "sizes": "540x720",
+      "type": "image/jpeg"
+    }
+  ],
+  "icons": [
+    {
+      "src": "assets/images/icon-96.svg",
+      "sizes": "96x96",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/images/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Browse Cars",
+      "short_name": "Browse",
+      "description": "Browse available cars",
+      "url": "/?shortcut=browse",
+      "icons": [
+        {
+          "src": "assets/images/icon-96.svg",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Submit Listing",
+      "short_name": "Sell",
+      "description": "Sell your car with Boxcars",
+      "url": "/?shortcut=submit",
+      "icons": [
+        {
+          "src": "assets/images/icon-96.svg",
+          "sizes": "96x96",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ],
+  "share_target": {
+    "action": "/share",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  },
+  "prefer_related_applications": false
+}

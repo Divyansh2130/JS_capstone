@@ -1,0 +1,34 @@
+{
+  "bodyStyles": [
+    {
+      "id": "Sedan",
+      "name": "Sedan",
+      "image": "assets/images/body-styles/sedan.png"
+    },
+    {
+      "id": "Coupe",
+      "name": "Coupe",
+      "image": "assets/images/body-styles/coupe.png"
+    },
+    {
+      "id": "SUV",
+      "name": "SUV",
+      "image": "assets/images/body-styles/suv.png"
+    },
+    {
+      "id": "Truck",
+      "name": "Truck",
+      "image": "assets/images/body-styles/truck.png"
+    },
+    {
+      "id": "Hatchback",
+      "name": "Hatchback",
+      "image": "assets/images/body-styles/hatchblack.png"
+    },
+    {
+      "id": "Convertible",
+      "name": "Convertible",
+      "image": "assets/images/body-styles/convertible.png"
+    }
+  ]
+}

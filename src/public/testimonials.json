@@ -1,0 +1,36 @@
+{
+  "testimonials": [
+    {
+      "name": "Ali TUFAN",
+      "role": "Designer",
+      "review": "I'd suggest Congrats Macklin Motors Nissan Glasgow South to a friend because I had great service from my salesman Patrick and all of the team.",
+      "ratingImage": "assets/images/avatars/stars.png",
+      "verified": true,
+      "avatar": "assets/images/avatars/user-1.png"
+    },
+    {
+      "name": "Sara Khan",
+      "role": "Product Manager",
+      "review": "Amazing experience! The staff was friendly and the process was smooth from start to finish.",
+      "ratingImage": "assets/images/avatars/stars.png",
+      "verified": true,
+      "avatar": "assets/images/avatars/user-2.png"
+    },
+    {
+      "name": "John Miller",
+      "role": "Developer",
+      "review": "Great selection of cars and very transparent pricing. Highly recommended.",
+      "ratingImage": "assets/images/avatars/stars.png",
+      "verified": true,
+      "avatar": "assets/images/avatars/user-3.png"
+    },
+    {
+      "name": "Sara Ali Khan",
+      "role": "Supply Manager",
+      "review": "Amazing experience! The staff was friendly and the process was smooth from start to finish.Highly recommended",
+      "ratingImage": "assets/images/avatars/stars.png",
+      "verified": true,
+      "avatar": "assets/images/avatars/user-1.png"
+    }
+  ]
+}
