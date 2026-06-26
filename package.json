@@ -4,8 +4,7 @@
   "description": "A capstone project for JavaScript module covering JavaScript best practices and core concepts",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "build": "echo \"Build completed\""
+    "test": "jest"
   },
   "author": "Author",
   "license": "ISC",
